@@ -58,7 +58,7 @@ The used software is stated in "requirements.txt".
 
 # References
 <a id="1">[1]</a> 
-Kobialka, P., Tarifa, S. L. T., Bergersen, G. R., Johnsen, E. B.: Weighted Games for User Journeys. In: Proc. SEFM 2022, LNCS 13550, Springer (2021).
+Kobialka, P., Tarifa, S. L. T., Bergersen, G. R., Johnsen, E. B.: Weighted Games for User Journeys. In: Proc. SEFM 2022, LNCS 13550, Springer (2022).
 
 <a id="2">[2]</a> 
 Bergersen, G.R., Sjoberg, D.I., Dyba, T.: Construction and Validation of an Instrument for Measuring Programming Skill. IEEE Transactions on Software Engineering 40(12),  1163--1184 (Dec 2014)
