@@ -1,10 +1,13 @@
 # Weighted Games for User Journeys
-This is the repository of the paper "Weighted Games for User Journeys" by Kobialka, Tarifa, Bergersen and Johnsen.
-The case study is implemented in "case_study.ipynb".
-It produces all images shown in the paper and contains an implementation of the unrolling algorithm, Algorithm 1.
-The file "pipeline.ipynb" demonstrates the presented pipeline with an example.
+This is the repository of the paper "Weighted Games for User Journeys" by Kobialka, Tarifa, Bergersen and Johnsen, published in [todo].
+A novel game approach for customer journeys is presented and accompanied by a case study.
 
-The file "requirements.txt" contains the used libraries in the notebooks.
+- The case study is implemented in "case_study.ipynb".It produces all images shown in the paper and contains an implementation of the presented unrolling algorithm.
+- The file "pipeline.ipynb" demonstrates the presented pipeline with an example.
+- The file "requirements.txt" contains the used libraries in the notebooks.
+- "unrollring_inpout.png" is unrolled to "unrolled.ps". "unrolled.ps" contains the original activity names as found in the data.
+- "gopos.csv" and "goposfast.csv" contain the simulation data produced by UPPAAL.
+- "activities.xml" serces as input file do denote which actions are user/company owned in the case study.
 
 # Context
 GrepS is a company that provides analysis and measurement of
@@ -40,8 +43,8 @@ Per event are stored:
 - Company ID: ID of the company the developer is working for. For B2C developer is a dummy value entered.
 - Timestamp: Time when the event occured.
 - Type: Classifies types of events:
-    - state: Event relates to workflow of GrepS
-    - subject: 
+    - state: Event relates to internal changes in the system of GrepS
+    - subject: Event realted to front-end activities
     - task: Event relates to the presented task
     - feedback: Event relates to the questionaire users fill out after tasks
 - Message: Event name
