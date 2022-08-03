@@ -46,7 +46,7 @@ Per event are stored:
 - Timestamp: Time when the event occured.
 - Type: Classifies types of events:
     - state: Event relates to internal changes in the system of GrepS
-    - subject: Event realted to front-end activities
+    - subject: Event relates to front-end activities
     - task: Event relates to the presented task
     - feedback: Event relates to the questionaire users fill out after tasks
 - Message: Event name
