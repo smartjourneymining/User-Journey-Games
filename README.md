@@ -1,5 +1,5 @@
 # Weighted Games for User Journeys
-This is the repository of the paper "Weighted Games for User Journeys" by Kobialka, Tarifa, Bergersen and Johnsen [[1]](#1).
+This is the repository of the paper "Weighted Games for User Journeys" by Kobialka, Tapia Tarifa, Bergersen and Johnsen [[1]](#1).
 A novel game approach for customer journeys is presented and accompanied by a case study.
 
 - The case study is implemented in "case_study.ipynb".It produces all images shown in the paper and contains an implementation of the presented unrolling algorithm.
@@ -58,7 +58,7 @@ The used software is stated in "requirements.txt".
 
 # References
 <a id="1">[1]</a> 
-Kobialka, P., Tarifa, S. L. T., Bergersen, G. R., Johnsen, E. B.: Weighted Games for User Journeys. In: Proc. SEFM 2022, LNCS 13550, Springer (2022).
+Kobialka, P., Tapia Tarifa, S. L., Bergersen, G. R., Johnsen, E. B.: Weighted Games for User Journeys. In: Proc. SEFM 2022, LNCS 13550, Springer (2022).
 
 <a id="2">[2]</a> 
 Bergersen, G.R., Sjoberg, D.I., Dyba, T.: Construction and Validation of an Instrument for Measuring Programming Skill. IEEE Transactions on Software Engineering 40(12),  1163--1184 (Dec 2014)
