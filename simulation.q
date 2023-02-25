@@ -13,4 +13,4 @@ strategy goPosFast = minE(steps) [t<=100] : <> reached_positive under goPos
 /*
 
 */
-simulate 10 [# <= 100] {Journey.startedTaskevent0, Journey.waitingForScoreswaitingForResultApproval, gas} under goPosFast
+simulate 10 [# <= 100] {gas} under goPosFast
