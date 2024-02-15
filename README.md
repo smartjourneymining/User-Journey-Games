@@ -1,6 +1,6 @@
 # Weighted Games for User Journeys
 This is the repository of the conference paper "Weighted Games for User Journeys" [[1]](#1) and the journal extension "User Journey Games: Automating User-Centric Analysis" [[2]](#2) by Kobialka, Tapia Tarifa, Bergersen and Johnsen.
-A novel game approach for customer journeys is presented and accompanied by a case study.
+A novel game approach for customer journeys is presented and accompanied by two case studies.
 
 - The case study is implemented in "case_study.ipynb".It produces all images shown in the paper and contains an implementation of the presented unrolling algorithm.
 - The file "pipeline.ipynb" demonstrates the presented pipeline with an example.
