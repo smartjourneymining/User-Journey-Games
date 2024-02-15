@@ -29,7 +29,7 @@ E[t<=100; 500] (min: gas) under goPos
 /*
 
 */
-E[t<=100; 500] (max: finalGasMin) under goPos
+E[t<=100; 500] (max: finalGasMax) under goPos
 
 /*
 
@@ -49,7 +49,7 @@ E[t<=100; 500] (min: gas) under goPosFast
 /*
 
 */
-E[t<=100; 500] (max: finalGasMin) under goPosFast
+E[t<=100; 500] (max: finalGasMax) under goPosFast
 
 /*
 
