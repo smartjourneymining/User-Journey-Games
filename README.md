@@ -9,7 +9,7 @@ A novel game approach for customer journeys is presented and accompanied by a ca
 - "unrollring_inpout.png" is unrolled to "unrolled.ps". "unrolled.ps" contains the original activity names as found in the data.
 - "gopos.csv" and "goposfast.csv" contain the simulation data produced by UPPAAL.
 - "activities.xml" serces as input file do denote which actions are user/company owned in the case study.
-- *.q files contain queries used in the UPPAAL model checker.
+- *.q files contain queries used in the UPPAAL model checker, in our work we use UPPAAL-4.1.20 Stratego-10 on a Linux64 system.
 
 # Context
 GrepS is a company that provides analysis and measurement of
